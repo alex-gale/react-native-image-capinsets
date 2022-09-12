@@ -1,8 +1,5 @@
 import React, { Component } from 'react';
-import {
-  ImageBackground,
-  Image,
-} from 'react-native';
+import { ImageBackground } from 'react-native';
 
 class ImageCapInset extends Component {
   render() {
