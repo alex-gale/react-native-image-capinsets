@@ -1,4 +1,4 @@
-# react-native-image-capinsets
+# @alex-gale/react-native-image-capinsets
 
 [![npm version](https://img.shields.io/npm/v/@alex-gale/react-native-image-capinsets.svg?style=flat)](https://www.npmjs.com/package/@alex-gale/react-native-image-capinsets)
 
